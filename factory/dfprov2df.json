@@ -1,0 +1,9 @@
+{
+	"name": "dfprov2df",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1dc16852-e2a1-439e-9e56-47b0507af697",
+		"tenantId": "079aa029-b239-44f8-a547-4caa9b83d731"
+	}
+}
